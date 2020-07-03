@@ -16,7 +16,7 @@
 ### 正在安装
 使用控制台打开exe文件(windows)
 
-	cd 实验5_6_设计函数mypow.exe
+	实验5_6_设计函数mypow.exe
 	
 ## 运行测试
 
